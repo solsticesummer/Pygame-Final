@@ -1,0 +1,4 @@
+Python libraries required:
+Python 3
+Pygame
+Random
